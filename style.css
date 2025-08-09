@@ -95,7 +95,7 @@ h1{
     font-size: 36px;
     color: #2d4e15;
     font-weight:900;
-    font-family: 'Playwrite Display', sans-serif;
+    font-family: 'Playwrite Display';
     font-style: italic;
 }
 
@@ -115,7 +115,6 @@ h1{
     gap: 10px;
 }
 
-
 img{
     width: 100%;
     height: 90%;
@@ -130,4 +129,34 @@ img{
 }
 .img-Text div a{
     color: #4f7314;
+}
+
+/* Third Container */
+.container.third{
+    background-color: rgba(37, 56, 32, 0.9);
+    
+    color: #F9FAF8;
+    font-size: 18px;
+    font-family: 'Playwrite Display';
+    padding: 40px 100px;
+    text-align: center;
+}
+
+.quote{
+    padding: 25px;
+    border: 2px solid #F9FAF8;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 900;
+    color: #b8df98;
+}
+.author{
+    /* border: 2px solid #F9FAF8; */
+    /* padding:0 0px; */
+    font-size: 18px;
+    font-weight: 700;
+    font-style: italic;
+    color: #b8df98;
+    margin-top: 20px;
+    text-align: center;
 }
