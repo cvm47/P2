@@ -70,6 +70,7 @@ nav{
     font-size: 48px;
     font-weight: 950;
     color: #a3c587;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
 }
 
 button{
@@ -152,6 +153,7 @@ img{
     font-weight: 900;
     color: #b8df98;
     width: 70%;
+    text-shadow: 4px 3px 4px rgba(0, 0, 0, 0.5);
 }
 .author{
     font-size: 18px;
