@@ -170,7 +170,7 @@ img{
     color: #1F2937;
     font-family: 'Playwrite AU QLD';
     font-size: 18px;
-    padding: 50px 100px;
+    padding: 80px 100px;
     display: flex;
     justify-content: center;
 }
@@ -191,3 +191,18 @@ img{
     width: 100%;
 }
 
+/* Fifth Container */
+.container.fifth{
+    background-color: #1F2937;
+    font-family: 'Playwrite AU QLD';
+    font-size: 12px;
+}
+
+.footer p {
+    text-align: center;
+    padding: 10px 0;
+    color: #F9FAF8;
+    font-weight: 600;
+    font-size: 12px;
+    margin: 0;
+}
